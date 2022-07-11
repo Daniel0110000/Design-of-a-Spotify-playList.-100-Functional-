@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/background_main2.xml" value="0.225" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/background_view.xml" value="0.22" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.225" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.131" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/ic_baseline_graphic_eq_24.xml" value="0.1825" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/ic_baseline_shuffle_24.xml" value="0.165" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/drawable/nackground_view_2.xml" value="0.165" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/layout/activity_main2.xml" value="0.25" />
+        <entry key="..\:/Users/Daniel/AndroidStudioProjects/MySpotifyDesignPlayList/app/src/main/res/layout/layout_items_list.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
